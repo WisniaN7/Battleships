@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:TextFormatting.h","TextFormatting.h");NDSummary.OnSummaryLoaded("File:TextFormatting.h",[["C/C++","C"]],[["Functions","Function"],["Groups","Group"]],[[33,0,1,"Functions","Functions"],[34,0,0,"gotoxy","gotoxy"]]);

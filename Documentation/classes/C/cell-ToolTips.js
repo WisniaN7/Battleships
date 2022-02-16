@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({7:"<div class=\"NDToolTip TClass LC\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype7\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\">Ship</div></div></div><div class=\"TTSummary\">Class representing ships.</div></div>"});

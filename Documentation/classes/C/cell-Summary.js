@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CClass:cell","cell");NDSummary.OnSummaryLoaded("CClass:cell",[["C/C++","C"]],[["Classes","Class"],["Groups","Group"],["Variables","Variable"]],[[36,0,0,"cell"],[19,0,1,"Variables","Variables"],[26,0,2,"ship","ship"],[27,0,2,"hasBeenShotAt","hasBeenShotAt"]]);
